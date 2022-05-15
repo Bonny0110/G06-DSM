@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GITHUB APP</string>
+
+    <string name="username">Nombre de usuario</string>
+    <string name="login">VER PERFIL DE GITHUB</string>
+    <string name="repositories">VER REPOSITORIOS</string>
+</resources>
